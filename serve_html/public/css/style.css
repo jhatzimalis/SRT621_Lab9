@@ -1,0 +1,28 @@
+.container {
+    padding: 100px;
+    column-gap: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.imageContainer {
+    text-align: center;
+}
+
+.fullsize {
+    height: 700px;
+    width: auto;
+}
+
+.button {
+    margin: 20px 0px 0px 40px;
+    width: 60px;
+    height: 30px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
